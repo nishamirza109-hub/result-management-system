@@ -1,64 +1,64 @@
-📘 Result Management System
-📌 Project Overview
+# Result Management System
 
-The Result Management System is a web-based application developed using Flask and SQLite.
-It allows administrators to manage student records, enter marks, calculate percentages, generate grades, and export PDF result cards.
+## 📌 Project Overview
+This is a Result Management System built using Flask and SQLite.  
+It helps manage student data, calculate result percentages and grades, and export result cards as PDF.
 
-This project was developed as part of BCA 5th Semester.
+---
 
-🚀 Features
+## 🚀 Features
+- Add, update, and delete student records  
+- Enter marks for each subject  
+- Automatic percentage & grade calculation  
+- View charts of subject averages and grade distribution  
+- PDF result card generation  
+- Search by roll number  
 
-Add, Update, Delete Students
+---
 
-Enter Subject Marks
+## 🛠️ Technologies Used
+- Python  
+- Flask  
+- SQLite  
+- Pandas  
+- Matplotlib  
+- ReportLab  
+- HTML, CSS  
 
-Automatic Percentage & Grade Calculation
+---
 
-Subject-wise Average Chart
+## ⚙️ Installation & Setup
 
-Grade Distribution Pie Chart
-
-PDF Result Card Generation
-
-Search Student by Roll Number
-
-SQLite Database Integration
-
-🛠️ Technologies Used
-
-Python
-
-Flask
-
-SQLite
-
-Pandas
-
-Matplotlib
-
-ReportLab
-
-HTML, CSS
-⚙️ Installation & Setup
-1️⃣ Clone Repository
+### 1️⃣ Clone Repository
+```bash
 git clone https://github.com/nishamirza109-hub/result-management-system.git
 cd result-management-system
+```
 
-2️⃣ Install Requirements
+### 2️⃣ Install Requirements
+```bash
 pip install -r requirements.txt
+```
 
-3️⃣ Create Database
+### 3️⃣ Create Database
+```bash
 python database.py
+```
 
-4️⃣ Run Application
+### 4️⃣ Run the App
+```bash
 python app.py
+```
 
-
-Open browser:
-
+Open your browser and go to:
+```
 http://127.0.0.1:5000/
+```
 
-📂 Project Structure
+---
+
+## 📂 Project Structure
+```
 result-management-system/
 │
 ├── app.py
@@ -67,18 +67,17 @@ result-management-system/
 ├── requirements.txt
 ├── templates/
 ├── static/
+├── README.md
+└── .gitignore
+```
 
-🎯 Future Improvements
+---
 
-Student Login Panel
+## 📸 Screenshots
+*(You can add screenshots later)*
 
-Email Result Notification
+---
 
-Online Deployment
-
-Admin Authentication
-
-👩‍💻 Author
-
-Nashra Rani
+## 👩‍💻 Author
+Nashra Rani 
 BCA Student
