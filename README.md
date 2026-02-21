@@ -75,7 +75,24 @@ result-management-system/
 ---
 
 ## 📸 Screenshots
-*(You can add screenshots later)*
+
+### 🏠 Home Page
+![Home Page](static/screenshots/home.png)
+
+### 📋 Students List
+![Students List](static/screenshots/students.png)
+
+### ➕ Add Student
+![Add Student](static/screenshots/add_student.png)
+
+### 📝 Enter Marks
+![Enter Marks](static/screenshots/enter_marks.png)
+
+### 🔎 Search Student
+![Search](static/screenshots/search.png)
+
+### 📊 Analysis Dashboard
+![Analysis](static/screenshots/analysis.png)
 
 ---
 
